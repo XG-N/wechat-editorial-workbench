@@ -1,0 +1,15 @@
+{
+  "tool": "image_gen builtin",
+  "created_at": "2026-10-22",
+  "use": "generated decorative illustrations, not body photography",
+  "assets": [
+    {
+      "file": "walk-intro-ornament.png",
+      "prompt": "Use case: illustration-story. Asset type: a tiny standalone decorative vignette for a Chinese WeChat editorial about a slow weekend walk, NOT a photograph. Primary request: an elegant miniature paper-cut landscape emblem: a softly winding cream footpath between a small vermilion garden bench and one ochre-gold ginkgo sprig, with a tiny amber sun. The whole composition is a compact horizontal emblem approximately 3:2, designed to remain legible when displayed only 82 CSS pixels wide. Warm handmade layered paper collage, precise crisp cut edges, restrained gold leaf veins, subtle paper grain, rich terracotta red #A63D25, ochre #DDA83E and muted moss green. Background: fully transparent alpha, NO rectangular plaque, NO white canvas, NO checkerboard pattern. Composition: center the entire vignette with very little transparent margin; a few large simple shapes, no delicate busy background. No letters, no words, no logo, no watermark, no people, no architecture landmarks, no flags, no fireworks, no QR code. This is an original ornamental illustration that complements a warm autumn paper-art editorial cover."
+    },
+    {
+      "file": "ginkgo-ornament.png",
+      "prompt": "Use case: illustration-story. Asset type: a tiny standalone leaf silhouette decoration for a slow-walk Chinese editorial, NOT a photograph. Primary request: one graceful fan-shaped ginkgo leaf in deep terracotta vermilion #A63D25 with a small second ochre-gold leaf and one short sweeping curved stem. Minimal paper-cut silhouette with a couple of fine warm gold veins and tactile cut-paper grain. Compact balanced composition, legible at 48 CSS pixels wide, centered, very little transparent margin. Background fully transparent alpha: no white canvas, no rectangle, no checkerboard pattern. Subject only, no text, no watermark, no icon badge, no circle, no frame, no people, no birds, no scenery. Original delicate autumn ornamental mark to sit beneath a real photograph in an elegant WeChat article."
+    }
+  ]
+}

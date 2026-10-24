@@ -1,0 +1,65 @@
+[
+  {
+    "repository": "jimliu/baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "stars": 26832,
+    "pushed_at": "2026-09-10T15:13:43Z",
+    "license": "MIT",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "checked_date": "2026-10-21"
+  },
+  {
+    "repository": "op7418/Humanizer-zh",
+    "url": "https://github.com/op7418/Humanizer-zh",
+    "stars": 20303,
+    "pushed_at": "2026-09-23T02:24:28Z",
+    "license": "MIT",
+    "commit": "f4518a8eab97b8bfebc66a89d34320a89bef6930",
+    "checked_date": "2026-10-21"
+  },
+  {
+    "repository": "doocs/md",
+    "url": "https://github.com/doocs/md",
+    "stars": 13450,
+    "pushed_at": "2026-10-21T14:40:31Z",
+    "license": "WTFPL",
+    "commit": null,
+    "checked_date": "2026-10-21"
+  },
+  {
+    "repository": "aiworkskills/wechat-article-skills",
+    "url": "https://github.com/aiworkskills/wechat-article-skills",
+    "stars": 704,
+    "pushed_at": "2026-09-23T01:36:09Z",
+    "license": "Apache-2.0",
+    "commit": null,
+    "checked_date": "2026-10-21"
+  },
+  {
+    "repository": "BND-1/wechat_article_skills",
+    "url": "https://github.com/BND-1/wechat_article_skills",
+    "stars": 317,
+    "pushed_at": "2026-01-16T06:59:15Z",
+    "license": "未声明",
+    "commit": null,
+    "checked_date": "2026-10-21"
+  },
+  {
+    "repository": "isjiamu/gzh-design-skill",
+    "url": "https://github.com/isjiamu/gzh-design-skill",
+    "stars": 4062,
+    "pushed_at": "2026-10-21T03:53:41Z",
+    "license": "NOASSERTION",
+    "commit": null,
+    "checked_date": "2026-10-21"
+  },
+  {
+    "repository": "imraywang/wewrite",
+    "url": "https://github.com/imraywang/wewrite",
+    "stars": 3500,
+    "pushed_at": "2026-10-19T07:52:01Z",
+    "license": "MIT",
+    "commit": null,
+    "checked_date": "2026-10-21"
+  }
+]

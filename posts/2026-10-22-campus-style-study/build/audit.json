@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-10-24T21:35:51+08:00",
+  "input_sha256": "3d972ed8b24e9316c61fc65b629c74ed22921bba2492fc857e4af37be4ce1a2b",
+  "status": "blocked",
+  "issues": [
+    {
+      "rule": "REVIEW001",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "复核记录未绑定当前输入与引擎；不得沿用旧通过状态"
+    },
+    {
+      "rule": "REVIEW002",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "没有实际复核者"
+    },
+    {
+      "rule": "REVIEW003",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "facts 尚未实际复核并记录依据"
+    },
+    {
+      "rule": "REVIEW003",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "natural_style 尚未实际复核并记录依据"
+    },
+    {
+      "rule": "REVIEW003",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "proofread_first 尚未实际复核并记录依据"
+    },
+    {
+      "rule": "REVIEW003",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "proofread_final 尚未实际复核并记录依据"
+    },
+    {
+      "rule": "REVIEW003",
+      "severity": "error",
+      "file": "review.json",
+      "line": null,
+      "message": "photos 尚未实际复核并记录依据"
+    }
+  ],
+  "error_count": 7,
+  "warning_count": 0,
+  "wechat_client_verified": false,
+  "scope": "机器检查加已记录的代理语义校对；不证明绝对零错字或微信客户端兼容"
+}

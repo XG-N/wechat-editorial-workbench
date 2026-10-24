@@ -1,0 +1,42 @@
+{
+  "title": "给周末留一段慢走的时间",
+  "subtitle": "从熟悉的路口出发，不必赶往下一站",
+  "theme": "life",
+  "author": "",
+  "summary": "给周末留一段没有打卡清单的路。看看树影，坐一会儿，走到想回家的时候。",
+  "hero_photo": "warm-cover",
+  "source_url": "",
+  "status": "draft",
+  "layout": "campus-warm",
+  "hero_background": "designs/campus-paper-collage-v2.png",
+  "hero_title_lines": [
+    "给周末留一段",
+    "慢走的时间"
+  ],
+  "photo_pairs": [],
+  "layout_study": "参照用户校园报道截图的版式关系，沿用原散步示例内容",
+  "frame_background": "designs/campus-frame-v2.jpg",
+  "hero_text_offset": 80,
+  "hero_motion": "editorial-motion",
+  "body_layout": "editorial-rhythm",
+  "body_ornaments": {
+    "intro": "walk-intro",
+    "quote": "ginkgo-mark"
+  },
+  "hero_title_top": 185,
+  "hero_kicker": "",
+  "hero_subtitle_lines": [
+    "从熟悉的路口出发，",
+    "不必赶往下一站"
+  ],
+  "photo_duos": [
+    [
+      "sunlit-urban-steps-20261022",
+      "sidewalk-shadows-20261022"
+    ]
+  ],
+  "quote_photo": {
+    "id": "park-bench",
+    "quote": "散步可以没有一个值得汇报的结果。"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "tool": "image_gen built-in",
+  "scope": "装饰性封面与正文外框背景，非真实摄影；正文三张摄影独立保留",
+  "versions": [
+    {
+      "role": "cover-v2",
+      "project_file": "designs/campus-paper-collage-v2.png",
+      "prompt": "Create an original highly art-directed vertical Chinese editorial cover illustration background, approximately 4:5 portrait. It must feel like a bespoke handcrafted poster and paper-art collage, NOT a generic scenic wallpaper or ordinary landscape painting. Theme: taking a slow weekend walk through a poetic campus garden. Build a theatrical layered composition in warm vermilion, persimmon orange, aged cream, jade green and subtle gold foil: sculptural folded paper hills, an elegant anonymous red-lacquer corridor/pavilion sweeping across the lower third, a winding stone path turning into broad flowing ivory paper ribbons in the foreground, oversized intricate ginkgo leaves framing two corners, small white birds, a softly embossed circular sunset halo, tactile deckle paper edges and very fine gold contour details. Use detailed foreground / midground / distant layers with convincing miniature paper relief, crisp shadows and refined silk-screen grain. Keep the upper central 45 percent a calm BUT textured orange title field surrounded by the illustration: subtle embossed cloud lines and a gold circular halo, enough readability for two lines of dark-red Chinese typography to be placed later. Do not leave a plain empty gradient as the entire design. Lower cream paper ribbons should connect naturally to an editorial article page. Make it sophisticated and visually memorable, a designed cultural magazine poster rather than tourist stock art. NO text, letters, numbers, logos, seals, QR codes, watermarks, flags, famous monuments, identifiable people or school-specific insignia. Only an original decorative cover, not real photography."
+    },
+    {
+      "role": "frame-v2",
+      "project_file": "designs/campus-frame-v2.jpg",
+      "source_file": "designs/campus-frame-v2.source.png",
+      "prompt": "Create an original vertically repeatable background tile for the side borders of a Chinese WeChat editorial article. Portrait 4:5. This is a subtle luxurious paper-art frame background, NOT a whole poster and NO text. Warm aged cream base (#ffefdb feeling), vermilion-coral watercolor shading close to far left and far right edges, very fine antique gold linework, delicate embossed ginkgo leaves, thin paper-cut jade mountain contours and flowing ivory cloud ribbons confined mostly to the outer 7 percent on each side. Keep the central 86 percent light quiet cream, because a white article panel will cover the center. The visible side strips must have crafted detail and variation rather than a plain flat cream margin. Top and bottom edges should transition smoothly so the image can repeat vertically without an obvious heavy seam. No black border, no centered object, no building, no person, no symbols of any institution, no typography, no characters, no QR code, no logo, no watermark. The overall frame should be elegant, restrained in contrast and cohesive with a warm red-orange, jade-green, gold-foil cultural paper-collage cover; preserve readability of the article center."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "input_sha256": "",
+  "reviewer": "",
+  "stages": {},
+  "findings": [],
+  "acknowledged_warnings": [],
+  "wechat_verified": false,
+  "note": "公开副本已移除本机绝对路径；审核状态重置。示例预览可查看，导出或上传前须完成当前指纹的实际复核。"
+}

@@ -1,0 +1,16 @@
+WeChat Editorial Workbench / 公众号制作工作台
+Copyright 2026 XG-N
+Original project: https://github.com/XG-N/wechat-editorial-workbench
+
+Original project code and documentation are licensed under the Apache License,
+Version 2.0. Retain the applicable copyright and attribution notices and provide
+a copy of the License when redistributing. Modified files must carry notices
+stating that they have been changed. See LICENSE, especially Section 4.
+
+This attribution identifies the original project; it does not imply endorsement
+of modifications or derivative products by the original author.
+
+Third-party components retain their own licenses and copyright notices.
+See THIRD_PARTY_NOTICES.md and the LICENSE files in the component directories.
+Example photographs retain their individual source licenses in photos.json.
+This NOTICE is informational and does not modify the Apache License.

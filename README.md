@@ -91,4 +91,14 @@ Python 测试使用隔离数据和接口替身；Node 测试验证控制逻辑�
 
 采用的 `JimLiu/baoyu-skills` 和 `op7418/Humanizer-zh` 保留其 MIT 许可与固定来源，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。未采用仓库快照、用户参考截图、本机配置、临时硬件控制、历史包和内部过程回执未收入公开版。
 
-本次未为项目原创部分另行指定开源许可证；第三方代码与摄影按各自许可使用。摄影作者、源页、许可链接和哈希见示例 `photos.json`，不要将第三方素材归为项目原创。
+本项目原创代码与文档采用 [Apache-2.0](LICENSE) 开源许可，作者为 **XG-N**，原始仓库为 **https://github.com/XG-N/wechat-editorial-workbench**。
+
+**再分发本项目或其衍生版本时，必须注明并保留适用的来源、版权和署名声明，提供许可证副本，并按 Apache-2.0 第 4 节保留 [NOTICE](NOTICE) 中的适用归属信息；修改过的文件须标明修改。** 可在随附 NOTICE、源码、说明文档或通常展示第三方声明的界面中保留来源。不将修改版冒充为原作者的官方版本。
+
+用于公开演示、教程、论文或项目介绍时，也请在说明中引用以下来源（推荐引用格式）：
+
+> XG-N. 公众号制作工作台（WeChat Editorial Workbench）. https://github.com/XG-N/wechat-editorial-workbench
+
+上述公开引用为项目倡议；Apache-2.0 不要求单纯下载、私人使用或工具生成的每篇文章都额外展示署名。本项目没有添加非标准的使用限制，适用义务以许可证正文为准。
+
+第三方技能保持其 MIT 许可；摄影按各自来源许可使用，不随软件重新授权。摄影作者、源页、许可链接和哈希见示例 `photos.json`，不要将第三方素材归为项目原创。
